@@ -1,3 +1,12 @@
+# Sprawozdanie nieobowiązkowe z laboratorium numer 4
+
+Kacper Adamiak
+
+https://github.com/Kacper-adamiak/full_stack_laboratory/tree/master/lab_4
+
+### Zawartość pliku lab_4.yaml
+
+```yaml
 apiVersion: v1
 kind: List
 items:
@@ -43,3 +52,24 @@ items:
             limits:
               memory: "256Mi"
               cpu: "250m"
+```
+
+### Wykonanie pliku lab4.yaml
+
+![](assets/uruchomienie_pliku_lab4)
+
+### Sprawdzenie utworzenia przestrzeni nazw lab4
+
+![](assets/sprawdzenie_przestrzeni_nazw_lab4)
+
+### Sprawdzenie zawartości przestrzeni nazw lab4
+
+![](assets/sprawdzenie_przestrzeni_nazw_lab4)
+
+### Sprawdzenie zasad w przestrzeni nazw lab4
+
+![](assets/sprawdzenie_ustawionych_zasad_dla_przestrzeni_nazw_lab4)
+
+### Sprawdzenie zasad tworzenia restrictednginx
+
+![](assets/sprawdzenie_deployment)

@@ -2,7 +2,7 @@
 
 Kacper Adamiak
 
-https://github.com/Kacper-adamiak/full_stack_lab_3
+https://github.com/Kacper-adamiak/full_stack_laboratory/tree/master/lab_3
 
 ### Zawartość pliku sidecar-pod-lab3.yaml
 
