@@ -4,6 +4,10 @@
 
 ## Użyte repozytoria
 
+https://github.com/Kacper-adamiak/lab10_zad2_source
+
+https://github.com/Kacper-adamiak/lab10_zad2_config
+
 ### Zadanie 1A
 
 #### Zawartość pliku dockerfile
