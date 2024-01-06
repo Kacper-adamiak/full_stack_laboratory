@@ -259,6 +259,10 @@ Działam na linuxie i po włączeniu tunelu w minikube nadal nie byłem w stanie
 
 ![](assets/3.png)
 
+Po sprawdzeniu na urządzeniu z systemem windows okazało się że w pełni działa.
+
+![](assets/image.png)
+
 #### Wyświetlenie `get all` po kilku aktualizacjach
 
 ![](assets/4.png)
